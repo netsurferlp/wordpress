@@ -1,0 +1,50 @@
+Sobre mi…
+
+Desarrollador de Aplicaciones WEB FULL STACK | Administrador de Sistemas WINDOWS LINUX | DBA SQL SERVER – MYSQL
+-Versátil – Pro-activo – Autodidacta – Curioso – Incansable –
+Experiencia Profesional
+
+SAC BUNKER SA
+Responsable del Área Sistemas y Digitalización en SAC BUNKER SA
+enero de 2007 – Presente (17 años) – La Plata
+
+➟ FUNCIONES Y RESPONSABILIDADES
+
+Análisis, desarrollo e Implementación de sistemas informáticos y Digitalización, para la empresa y clientes.
+
+➟ DESARROLLO WEB FULL STACK (HTML5 – CSS3 – JS -JQUERY AJAX – PHP – SERVER LAMP –
+
+✓ Sistema ERP – Facturación Electrónica WEB SERVICES AFIP SOAP (2023)
+✓ Pagina Web Institucional BUNKER STORAGE(2022)
+✓ Sistema Online de Registro (Modalidad HOME OFFICE)(2021)
+✓ Pagina Web Institucional SAC BUNKER (Modalidad HOME OFFICE)(2020)
+✓ Sistema Online de Bajas Definitivas(2019)
+
+➟ ADMINISTRACION y GESTION DE SERVIDORES REMOTOS (HOME-OFFICE)
+
+✓ Servidor VIDEOVIGILANCIA ZONEMINDER
+✓ Servidor de BACK UP NUBE – OWNCLOUD
+✓ Servidor WEB – LAMP
+✓ Servidor BACKUP – DUPLICATI
+✓ Servidor de archivos local – NEXTCLOUD
+
+➟ IMPLEMENTACIÓN ISLA DIGITALIZACIÓN
+
+✓ XSANE
+
+➟ MIGRACION IMPLEMENTACION DE SERVIDORES, ROUTERS, SWITCH en RACK (2016)
+
+✓ Servidor de Videovigilancia – ZONEMINDER
+✓ Servidor de Archivos y Gestion de Backups -DUPLICATI – NEXTCLOUD
+
+➟ MIGRACIÓN A LINUX SISTEMAS CLIENTE SERVIDOR
+✓ STACK – LAZARUS 9 – MYSQL 5.2 – UBUNTU SERVER
+
+➟ MIGRACIÓN a LINUX
+
+➟ SISTEMAS CLIENTE-SERVIDOR
+✓ STACK – DELPHI 2007 – SQL SERVER 2000 – WIN2003 SERVER
+
+➟ SISTEMAS CLIENTE-SERVIDOR
+✓ STACK – VB6 – SQL SERVER 2000 – WIN 2003
+
