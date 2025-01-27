@@ -114,3 +114,12 @@ sftp-config.json
 /readme.html
 /wp-*.php
 /xmlrpc.php
+
+#secrets API KEY
+
+/wp-content/plugins/ultimate-addons-for-gutenberg/dist/blocks.min.js
+/wp-content/plugins/kadence-blocks/includes/blocks/class-kadence-blocks-googlemaps-block.php
+/wp-content/plugins/kadence-blocks/dist/blocks-googlemaps.js
+/wp-content/plugins/otter-blocks/build/blocks/blocks.js
+/wp-content/plugins/otter-blocks/vendor/stripe/stripe-php/README.md
+
